@@ -1,0 +1,11 @@
+{
+    "name": "Nandini Sunalghar",
+    "programmingLanguages": ["JavaScript", "ReactJs"],
+    "softwareTools": ["HTML5", "CSS3", "Bootstrap"],
+    "productivityTools": "MS Office",
+    "versionControl": "Git",
+    "personalProfile":{
+        "DOB": "26th JUN 1999",
+        "languagesKnown": ["Telugu", "Hindi", "English"]
+    }
+}
