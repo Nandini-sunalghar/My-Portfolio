@@ -4,10 +4,10 @@ import './Navbar.css';
 
 function NavbarComponents() {
   return (
-    <div>
+    <div className="container nav__container">
         <Navbar variant="dark" className="navbar" fixed="top">
         <Container>
-          <Nav className='m-auto'>
+          <Nav className='m-auto nav__menu'>
         <Nav.Item>
           <Nav.Link href="/About">About</Nav.Link>
         </Nav.Item>
