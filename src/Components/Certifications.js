@@ -15,4 +15,4 @@ function Certifications() {
     )
 }
 
-export default Certifications
+export default Certifications;
